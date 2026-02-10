@@ -1,4 +1,4 @@
 aiogram
 numpy
-cv2
+opencv-python
 Pillow
