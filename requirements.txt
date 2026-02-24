@@ -1,4 +1,5 @@
 aiogram
+python-telegram-bot
 numpy
 opencv-python-headless
 Pillow
