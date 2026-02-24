@@ -1,5 +1,3 @@
-RUN pip install opencv-python-headless
-
 # bot.py
 import os
 import io
@@ -768,4 +766,5 @@ if __name__ == "__main__":
 
     print("Bot starting...")
     executor.start_polling(dp, skip_updates=True)
+
 
